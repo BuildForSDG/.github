@@ -20,8 +20,3 @@ Include details of your testing environment, and the tests you ran to see how yo
 - [ ] I have added necessary inline code documentation
 - [ ] I have added tests that prove my fix is effective and that this feature works
 - [ ] New and existing unit tests pass locally with my changes
-
-## For Your Review & Feedback
-- @team-member-1-username 
-- @team-member-2-username
-- @ttl-username
